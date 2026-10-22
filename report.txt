@@ -1,0 +1,88 @@
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D10.0mm_P5.00mm'.
+Info: Processing symbol 'C2:Capacitor_THT:CP_Radial_D10.0mm_P5.00mm'.
+Info: Processing symbol 'J2:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-11_1x11_P5.00mm_Horizontal'.
+Info: Processing symbol 'L1:Inductor_THT:L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-201AD_P15.24mm_Horizontal'.
+Info: Processing symbol 'J1:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-11-5.08_1x11_P5.08mm_Horizontal'.
+Info: Processing symbol 'U1:Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical'.
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D10.0mm_P5.00mm').
+Changed REF** reference designator to C1.
+Changed C1 value from CP_Radial_D10.0mm_P5.00mm to 470uF.
+Updated C1 symbol association from  to /67dfba92-1581-43ae-a995-8db5053954f0.
+Updated C1 fields.
+Removed C1 footprint fields not in symbol.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'Buck_converter.kicad_sch'.
+Updated C1 footprint filters to 'CP_*'.
+Connected C1 pin 1 to +12V.
+Connected C1 pin 2 to GND.
+Updated C1 unit metadata.
+Added C2 (footprint 'Capacitor_THT:CP_Radial_D10.0mm_P5.00mm').
+Changed REF** reference designator to C2.
+Changed C2 value from CP_Radial_D10.0mm_P5.00mm to 220 µF.
+Updated C2 symbol association from  to /3e8f1610-5661-4c8d-81a4-988064a02ca8.
+Updated C2 fields.
+Removed C2 footprint fields not in symbol.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'Buck_converter.kicad_sch'.
+Updated C2 footprint filters to 'CP_*'.
+Connected C2 pin 1 to +5V.
+Connected C2 pin 2 to GND.
+Updated C2 unit metadata.
+Added J1 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-11-5.08_1x11_P5.08mm_Horizontal').
+Changed REF** reference designator to J1.
+Changed J1 value from TerminalBlock_Phoenix_MKDS-1,5-11-5.08_1x11_P5.08mm_Horizontal to Conn_01x02.
+Updated J1 symbol association from  to /d5c84dfe-73b4-4eaa-bfa9-1afd16017192.
+Updated J1 fields.
+Removed J1 footprint fields not in symbol.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'Buck_converter.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Connected L1 pin 1 to Net-(D2-K).
+Updated L1 unit metadata.
+Changed J2 value from TerminalBlock_Phoenix_MKDS-1,5-11_1x11_P5.00mm_Horizontal to Conn_01x02.
+Connected J1 pin 2 to GND.
+Connected J1 pin 1 to +12V.
+Updated J1 unit metadata.
+Added J2 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-11_1x11_P5.00mm_Horizontal').
+Changed REF** reference designator to J2.
+Updated J2 symbol association from  to /8154525c-8910-4447-bbfd-89be4160dc2f.
+Updated J2 fields.
+Removed J2 footprint fields not in symbol.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'Buck_converter.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 1 to +5V.
+Connected J2 pin 2 to GND.
+Updated J2 unit metadata.
+Added L1 (footprint 'Inductor_THT:L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1').
+Changed REF** reference designator to L1.
+Changed L1 value from L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1 to 68 µH.
+Updated L1 symbol association from  to /92a23781-553c-4159-8640-e8b4d4b04bda.
+Updated L1 fields.
+Removed L1 footprint fields not in symbol.
+Updated L1 sheetname to '/'.
+Updated L1 sheetfile to 'Buck_converter.kicad_sch'.
+Updated L1 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Connected L1 pin 2 to +5V.
+Warning: No net found for component J1 pad 11 (no pin 11 in symbol).
+Warning: No net found for component J1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component J1 pad 8 (no pin 8 in symbol).
+Warning: No net found for component J1 pad 7 (no pin 7 in symbol).
+Warning: No net found for component J1 pad 6 (no pin 6 in symbol).
+Warning: No net found for component J1 pad 10 (no pin 10 in symbol).
+Warning: No net found for component J1 pad 4 (no pin 4 in symbol).
+Warning: No net found for component J2 pad 7 (no pin 7 in symbol).
+Warning: No net found for component J2 pad 11 (no pin 11 in symbol).
+Warning: No net found for component J2 pad 9 (no pin 9 in symbol).
+Warning: No net found for component J1 pad 3 (no pin 3 in symbol).
+Warning: No net found for component J2 pad 3 (no pin 3 in symbol).
+Warning: No net found for component J1 pad 9 (no pin 9 in symbol).
+Warning: No net found for component J2 pad 10 (no pin 10 in symbol).
+Warning: No net found for component J2 pad 5 (no pin 5 in symbol).
+Warning: No net found for component J2 pad 6 (no pin 6 in symbol).
+Warning: No net found for component J2 pad 8 (no pin 8 in symbol).
+Warning: No net found for component J2 pad 4 (no pin 4 in symbol).
+
+
+Info: Total warnings: 18, errors: 0.
